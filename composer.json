@@ -1,0 +1,12 @@
+{
+    "name": "rob/google-maps-hacking",
+    "require": {
+        "google/apiclient": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "mellowplace",
+            "email": "rob@mellowplace.com"
+        }
+    ]
+}
